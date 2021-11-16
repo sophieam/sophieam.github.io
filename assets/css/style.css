@@ -530,6 +530,17 @@ hr {
 	margin: 0 0 20px
 }
 
+.circleborder {
+        border-color: #FFFFFF;
+        border-image: none;
+        border-radius: 100%;
+        border-style: solid;
+        border-width: 1px;
+        height: 200px;
+        width: 200px;
+        overflow: hidden;
+      }
+
 footer {
 	width: 270px;
 	float: left;
